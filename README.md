@@ -1,5 +1,5 @@
 # bigbang
 
-My first repository on Github
+Alx-pre_course
 
-Official Alx software engineering student
+I'm now a ALX student,this is my first repository
